@@ -30,6 +30,12 @@ The completed `feature/overtime-pay` branch was merged into `main` and pushed to
 
 ![Task 5](screenshots/task5.png)
 
+## Task 6 — Tag and Final Evidence
+
+The final commit was tagged `v1.0-synced` and the tag was pushed to the GitHub repository.
+
+![Task 6](screenshots/task6.png)
+
 ## Questions
 
 ### 1. What did the rejected push error say, and why?
